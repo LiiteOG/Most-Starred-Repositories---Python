@@ -1,5 +1,5 @@
 # Top 10 Most Starred Repositories relative to Python
-# Project of Daniel Raadi
+# Project made by Daniel Raadi
 
 from pydoc import resolve
 from unicodedata import name
