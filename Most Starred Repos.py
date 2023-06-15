@@ -1,3 +1,6 @@
+# Top 10 Most Starred Repositories relative to Python
+# Project of Daniel Raadi
+
 from pydoc import resolve
 from unicodedata import name
 from urllib import response
